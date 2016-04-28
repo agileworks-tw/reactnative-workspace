@@ -26,10 +26,17 @@
 
 跨平台開發已經成為主流趨勢，能夠用更短的時間，同時開發出 iOS 與 Android 雙平台通吃的 App，讓你成為更受企業喜愛的新世代軟體工程師。如果你想轉戰前端、後端或全端開發的工作，熟悉 JavaScript 與 React 也讓你遊刃有餘。
 
+適合職務（資料來自人力銀行有關 React Native 技能需求的職缺）：
+
+* iOS 或 Android 工程師
+* JavaScript 工程師
+* 資深前端工程師
+* 全端工程師 Full Stack Developer
+
 ## 適合對象
 
-1. 具有 JavaScript 程式設計基礎，想學習進階開發實戰
-2. 成為 iOS 及 Android App 跨平台開發者
+1. 具有 JavaScript 程式設計基礎，想學習進階開發實戰。
+2. 成為 iOS 及 Android App 跨平台開發者。
 
 ## 課程大綱
 
