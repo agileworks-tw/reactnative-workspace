@@ -35,10 +35,10 @@ class MyApp extends Component {
       <View style={styles.container}>
       
         <Text>身高</Text>
-        <TextInput onChangeText={(text) => this.setState({height: text})} />
+        <TextInput placeholder="請輸入身高(公分)" onChangeText={(text) => this.setState({height: text})} />
         
         <Text>體重</Text>
-        <TextInput onChangeText={(text) => this.setState({weight: text})}  />
+        <TextInput placeholder="請輸入體重(公斤)" onChangeText={(text) => this.setState({weight: text})}  />
 
         <TouchableOpacity onPress={this._click}>
           <Text>計算BMI</Text>
